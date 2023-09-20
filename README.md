@@ -1,1 +1,1 @@
-a simple shell that mimics the Bash shell
+A simple shell that mimics the Bash shell
